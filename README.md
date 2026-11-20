@@ -45,9 +45,9 @@ Mehrere aufeinanderfolgende leere Zeilen werden in der Darstellung ignoriert!
 
 zwischen dieser Zeile und der Zeile direkt oben drüber sind in der Datei tatsächlich 30 leere Zeilen!
 
-# Man formatiert den Text mit der Sonderzeichen
+# Man formatiert den Text mit Sonderzeichen
 
-(hier 1x #+Leerzeichen danach am Anfang der Zeile)
+(hier die Überschrift entsteht mit 1x #+Leerzeichen am Anfang der Zeile)
 
 
 
@@ -66,12 +66,11 @@ zwischen dieser Zeile und der Zeile direkt oben drüber sind in der Datei tatsä
 
 ## Formatierung mit anderen Zeichen
 
-- Ein - Zeichen
-- für
+- Ein - Zeichen erstellt
+- einen Punkt für
 - z.B. Listen
 
--- zwei - Zeichen werden ein zusammenhängender Strich
-
+-- zwei - Zeichen 
 
 ---
 (mit drei - wird eine Trennlinie daraus)
